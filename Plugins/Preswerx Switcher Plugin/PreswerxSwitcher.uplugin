@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Preswerx Switcher",
+	"Description": "The Preswerx Switcher allows designers to easily position cameras around the scene and create several versions of the site. During runtime, the client can cycle through these cameras and site variations at the click of a button.",
+	"Category": "Preswerx Plugin Library",
+	"CreatedBy": "Preswerx, LLC",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PreswerxSwitcher",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
